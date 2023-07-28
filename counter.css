@@ -1,0 +1,44 @@
+.para{
+    font-size: 100px;
+    font-weight: 900;
+    font-family: "Roboto";
+}
+.head{
+    font-size: 80px;
+    font-weight: 900px;
+    font-family: "Roboto";
+}
+.btn1{
+    width: 100px;
+    height: 46px;
+    border-radius: 10px;
+    font-family: "Roboto";
+    font-size: 20px;
+    margin: 10px;
+    background-color: green;
+    color: white;
+}
+.bgcontainer{
+    text-align: center;
+}
+.btn2{
+    width: 100px;
+    height: 46px;
+    border-radius: 10px;
+    font-family: "Roboto";
+    font-size: 20px;
+    margin: 10px;
+    background-color: gray;
+    color: white;
+}
+.btn3{
+    width: 100px;
+    height: 46px;
+    border-radius: 10px;
+    font-family: "Roboto";
+    font-size: 20px;
+    margin: 10px;
+    background-color: red;
+    color: white;
+}
+
